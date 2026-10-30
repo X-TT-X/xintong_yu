@@ -45,12 +45,7 @@
     element.src = assetPath(entry.src);
     slot.replaceChildren(element);
     slot.classList.add('has-original-media');
-    if (entry.caption) {
-      const caption = document.createElement('span');
-      caption.className = 'original-media-caption';
-      caption.textContent = entry.caption;
-      slot.append(caption);
-    }
+
   });
   document.querySelectorAll('[data-repository-id]').forEach(link => {
     const entry = catalogue[link.dataset.repositoryId];

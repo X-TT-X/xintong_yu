@@ -8,10 +8,10 @@ window.portfolioMedia = {
     "repository": "https://github.com/X-TT-X/Multi-Agent-Robotics"
   },
   "brain-tumour": {
-    "src": "assets/media/brain-tumour-owner.gif",
+    "src": "assets/media/brain-tumour-clean.gif",
     "type": "gif",
     "poster": null,
-    "caption": "Owner-supplied thesis figure animation · Not a live recording",
+    "caption": "Brain tumour project interface animation",
     "repository": "https://github.com/X-TT-X/Brain-Tumor-Identification-and-Prediction"
   },
   "aircraft-planning": {
@@ -74,7 +74,7 @@ window.portfolioMedia = {
     "src": "assets/media/uniapp-shopping.gif",
     "type": "gif",
     "poster": null,
-    "caption": "Product-list animation using original project images and goods/list/list.vue layout; English UI reconstruction, not a live app recording.",
+    "caption": "Mobile shopping app — product browsing",
     "repository": "https://github.com/X-TT-X/Yuni-app"
   }
 };
